@@ -7,9 +7,9 @@
  * including, but not limited to, copying, modification and redistribution.
  * NO WARRANTY OF ANY KIND IS PROVIDED.
  *
- * This example will send Temperature and Air Pressure
+ * This example will send Battery voltage and movement
  * using frequency and encryption settings matching those of
- * the The Things Network. Application will 'sleep' 7x8 seconds (56 seconds)
+ * the The Things Network. Application will 'sleep' 1x300 seconds (300 seconds)
  *
  * This uses ABP (Activation-by-personalisation), where a DevAddr and
  * Session keys are preconfigured (unlike OTAA, where a DevEUI and
